@@ -366,7 +366,7 @@ export default {
           name: 'CSS',
         },
       ],
-      content:'License Generating Web module from license file',
+      content:'Upload File and Integrate with form Data to generate new file using .net core api',
       date: '2018-03-08',
     },
     {
