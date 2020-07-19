@@ -322,40 +322,39 @@ export default {
   ],
   projects: [
     {
-      title: 'Integrated ICT ',
-      subtitle: 'Website',
-      category: 'Content Management System',
+      title: 'RAFR System ',
+      subtitle: 'Web Project',
+      category: 'Revenue, Accounting & Financial Reporting System',
       subcategory: 'react',
       contribution: true,
       links: [
         {
           url: 'https://www.integratedict.com.np',
-          text: 'Visit Website ',
+          text: 'Confidential Project',
         },
       ],
 
       technologies: [
         {
-          name: 'React',
+          name: 'Angular 6',
         },
         {
           name: 'CSS',
         },
       ],
-      content:
-        'Website of company name Integrated ICT Pvt Ltd, this website design changes according to the content.',
+      content: 'Revenue, Accounting & Financial Reporting System for Ministry Of Foreign Affairs',
       date: '2018-03-08',
     },
     {
-      title: 'Integrated ICT ',
-      subtitle: 'Website',
-      category: 'Content Management System',
+      title: 'License Module',
+      subtitle: 'Web Project',
+      category: 'License Module for Venio system',
       subcategory: 'react',
       contribution: true,
       links: [
         {
           url: 'https://www.integratedict.com.np',
-          text: 'Visit Website ',
+          text: 'Confidential Project',
         },
       ],
 
@@ -367,8 +366,7 @@ export default {
           name: 'CSS',
         },
       ],
-      content:
-        'Website of company name Integrated ICT Pvt Ltd, this website design changes according to the content.',
+      content:'License Generating Web module from license file',
       date: '2018-03-08',
     },
     {
