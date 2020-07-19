@@ -52,40 +52,40 @@ export default {
     {
       title: 'FrontEnd Developer',
       summary:'Javascript development<br />| Angular 8' ,
-      startDate: '2020',
-      endDate: '2021',
+      startDate: 'Feb 2018',
+      endDate: 'Feb 2019',
       isCurrent: true,
-      company: 'Simply Soft Pvt.Ltd',
+      company: 'Simply Soft',
     },
     {
       title: 'FrontEnd Developer',
       summary:'Javascript development<br />| Angular 8' ,
-      startDate: '2019',
-      endDate: '2020',
+      startDate: 'Feb 2018',
+      endDate: 'Feb 2019',
       isCurrent: true,
-      company: 'Next Tech Point Pvt.Ltd',
+      company: 'Next Tech Point',
     },
     {
       title: 'FrontEnd Developer',
       summary:'Javascript development<br />| ReactJS' ,
-      startDate: '2018',
-      endDate: '2019',
+      startDate: 'Feb 2018',
+      endDate: 'Feb 2019',
       isCurrent: true,
       company: 'Integrated ICT',
     },
     {
       title: 'Developer UI/UX',
       summary:'Javascript development<br />| ReactJS ',
-      startDate: '2017',
-      endDate: '2018',
+      startDate: 'Dec 2017',
+      endDate: 'Feb 2018',
       isCurrent: true,
       company: 'Bits Innovation',
     },
     {
       title: 'Trainee Software Test Engineer',
       summary:'SQL/Selenium/Burpsuite',
-      startDate: '2017',
-      endDate: '2017',
+      startDate: 'July 2017',
+      endDate: 'Oct 2017',
       isCurrent: true,
       company: 'Pioneer Solutions',
     }
@@ -195,16 +195,6 @@ export default {
       },
     },
     {
-      name: 'Anguar 8',
-      language: {
-        name: 'Javascript',
-        style: 'javascript',
-      },
-      category: {
-        name: 'Frameworks / SDK / CMS',
-      },
-    },
-    {
       name: 'Security',
       language: {
         name: 'RED HAT',
@@ -215,7 +205,7 @@ export default {
       },
     },
     {
-      name: 'SQL (MYSQL, PostgreSQL)',
+      name: 'SQL (MYSQL)',
       language: {
         name: 'Others',
         style: 'others',
@@ -225,17 +215,7 @@ export default {
       },
     },
     {
-      name: 'Continuous integration',
-      language: {
-        name: 'Others',
-        style: 'others',
-      },
-      category: {
-        name: 'Languages',
-      },
-    },
-    {
-      name: 'TDD',
+      name: 'C# core',
       language: {
         name: 'Others',
         style: 'others',
@@ -266,6 +246,16 @@ export default {
     },
     {
       name: 'JQUERY',
+      language: {
+        name: 'Javascript',
+        style: 'javascript',
+      },
+      category: {
+        name: 'Frameworks / SDK / CMS',
+      },
+    },
+    {
+      name: 'Angular 8',
       language: {
         name: 'Javascript',
         style: 'javascript',
@@ -310,7 +300,7 @@ export default {
     },
   ],
   tools:
-    'Operating system: Kali Linux(over five years)<br />IDE: Eclipse / Atom /IntelliJ IDEA<br />Continuous integration software: Gitlab-CI<br />Project Management Software: Gitlab<br />Version control system software: Gitlab / Github/SVN<br />',
+    'Operating system: Kali Linux(over five years)<br />IDE: Eclipse / Atom /VS Code<br />Continuous integration software: Gitlab-CI<br />Project Management Software: Gitlab<br />Version control system software: Gitlab / Github/SVN<br />',
   educations: [
     {
       schoolName: 'Kathmandu University',
@@ -332,58 +322,54 @@ export default {
   ],
   projects: [
     {
-      title: 'R',
+      title: 'Integrated ICT ',
       subtitle: 'Website',
-      category: 'License Integration Software',
-      subcategory: 'angular 8 ',
+      category: 'Content Management System',
+      subcategory: 'react',
       contribution: true,
       links: [
         {
-          url: 'test.com',
-          text: 'Project Confidential',
+          url: 'https://www.integratedict.com.np',
+          text: 'Visit Website ',
         },
       ],
 
       technologies: [
         {
-          name: 'Angular 8',
-        },
-        {
-          name: 'C#',
+          name: 'React',
         },
         {
           name: 'CSS',
         },
       ],
-      content:'License Module for the software.',
-      date:'2018',
+      content:
+        'Website of company name Integrated ICT Pvt Ltd, this website design changes according to the content.',
+      date: '2018-03-08',
     },
     {
-      title: 'License Module ',
+      title: 'Integrated ICT ',
       subtitle: 'Website',
-      category: 'License Integration Software',
-      subcategory: 'angular 8 ',
+      category: 'Content Management System',
+      subcategory: 'react',
       contribution: true,
       links: [
         {
-          url: 'test.com',
-          text: 'Project Confidential',
+          url: 'https://www.integratedict.com.np',
+          text: 'Visit Website ',
         },
       ],
 
       technologies: [
         {
-          name: 'Angular 8',
-        },
-        {
-          name: 'C#',
+          name: 'React',
         },
         {
           name: 'CSS',
         },
       ],
-      content:'License Module for the software.',
-      date:'2018',
+      content:
+        'Website of company name Integrated ICT Pvt Ltd, this website design changes according to the content.',
+      date: '2018-03-08',
     },
     {
       title: 'Integrated ICT ',
