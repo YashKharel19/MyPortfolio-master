@@ -31,7 +31,7 @@ const theme = {
   pythonColor: {
     style: {
       background: '#306998',
-      // color: '#fff',
+      color: '#fff',
     },
     className: 'vertical-timeline-element--python',
     icon: <DevIcon icon="python" fill='#FFD43B' />,
@@ -39,7 +39,7 @@ const theme = {
   cssColor: {
     style: {
       background: '#ccc',
-      // color: '#fff',
+      color: '#fff',
     },
     className: 'vertical-timeline-element--css',
     icon: <DevIcon icon="css3" />,
@@ -47,7 +47,7 @@ const theme = {
   redhatColor: {
     style: {
       background: 'black',
-      // color: 'red',
+      color: 'red',
     },
     className: 'vertical-timeline-element--redhat',
     icon: <DevIcon icon="redhat" fill='red' />,
