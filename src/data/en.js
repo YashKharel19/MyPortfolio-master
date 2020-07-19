@@ -329,7 +329,7 @@ export default {
       contribution: true,
       links: [
         {
-          url: 'https://www.integratedict.com.np',
+          url: '#',
           text: 'Confidential Project',
         },
       ],
@@ -353,7 +353,7 @@ export default {
       contribution: true,
       links: [
         {
-          url: 'https://www.integratedict.com.np',
+          url: '#',
           text: 'Confidential Project',
         },
       ],
@@ -377,7 +377,7 @@ export default {
       contribution: true,
       links: [
         {
-          url: 'https://www.integratedict.com.np',
+          url: 'https://safe-fjord-65589.herokuapp.com/?fbclid=IwAR3aLhu3bmXxsGvxCFptk5JGxUtn5OwZm_dJjRYM2sdSRMxYhgu7r_77rLU#/',
           text: 'Visit Website ',
         },
       ],
@@ -424,7 +424,7 @@ export default {
       subcategory: 'react',
       links: [
         {
-          url: 'http://www.teanepal.com/',
+          url: 'https://calm-inlet-98561.herokuapp.com/?fbclid=IwAR2VY9slzRuM3X_xoaUYE6YyMI-cGdvy8dxRwwUc6I8O4AxBCaC57BXQlYU',
           text: 'Visit website',
         },
 
