@@ -17,7 +17,7 @@ const ResumeAboutMeBlock = ({
 }) => {
   let pictureSrc = pictureUrl;
   if (!/^https?:\/\//i.test(pictureUrl)) {
-    pictureSrc = require(`../../data/img/${pictureUrl}`); // eslint-disable-line global-require
+    pictureSrc = require(`../../data/${pictureUrl}`); // eslint-disable-line global-require
   }
 
   return (
