@@ -1,6 +1,6 @@
 export default {
   Resume: {
-    download: 'Download',
+    download: 'Download CV',
     hireMe: 'Hire me',
     workExperienceAndEducation: 'Work experience & Education',
     years: ' years',
