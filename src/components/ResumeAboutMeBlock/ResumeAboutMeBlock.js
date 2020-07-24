@@ -61,7 +61,7 @@ const ResumeAboutMeBlock = ({
               >
                 <FormattedMessage
                   id="Resume.download"
-                  defaultMessage="Download"
+                  defaultMessage="Download CV"
                 />
               </Button>
               &nbsp;&nbsp;&nbsp;
