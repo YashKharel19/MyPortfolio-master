@@ -50,10 +50,10 @@ export default {
   ],
   positions: [
     {
-      title: 'FrontEnd Developer',
+      title: 'FrontEnd Developer(Part Time)',
       summary:'Javascript development<br />| Angular 8' ,
       startDate: '2020-06-04',
-      endDate: 'today',
+      endDate: '2020-07-04',
       isCurrent: true,
       company: 'Simply Soft',
     },
@@ -267,8 +267,8 @@ export default {
     {
       name: 'Wordpress',
       language: {
-        name: 'RED HAT',
-        style: 'redhat',
+        name: 'Others',
+        style: 'others',
       },
       category: {
         name: 'Frameworks / SDK / CMS',
