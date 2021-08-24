@@ -49,14 +49,22 @@ export default {
     }
   ],
   positions: [
-//     {
-//       title: 'FrontEnd Developer(Part Time)',
-//       summary:'Javascript development<br />| Angular 8' ,
-//       startDate: '2020-06-04',
-//       endDate: '2020-07-04',
-//       isCurrent: true,
-//       company: 'Simply Soft',
-//     },
+    {
+      title: 'FrontEnd Developer',
+      summary:'Javascript development<br />| Angular 8' ,
+      startDate: '2021-07-12',
+      endDate: 'Today',
+      isCurrent: true,
+      company: 'Simply Soft',
+    },
+    {
+      title: 'FrontEnd Developer(Part Time)',
+      summary:'Javascript development<br />| Angular 8' ,
+      startDate: '2020-06-04',
+      endDate: '2020-07-04',
+      isCurrent: true,
+      company: 'Simply Soft',
+    },
     {
       title: 'FrontEnd Developer',
       summary:'Javascript development<br />| Angular 8' ,
