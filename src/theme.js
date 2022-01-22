@@ -12,6 +12,14 @@ const theme = {
     className: 'vertical-timeline-element--php',
     icon: <DevIcon icon="php" style={{fill:"#fff"}} />,
 },
+  angularColor:{
+    style: {
+      background: '#BD002E',
+      color: '#fff',
+    },
+    className: 'vertical-timeline-element--angularjs',
+    icon: <DevIcon icon="angularjs" style={{fill:"#fff"}} />,
+  }
   reactColor: {
     style: {
       background: '#61DAFB',
@@ -27,6 +35,14 @@ const theme = {
     },
     className: 'vertical-timeline-element--javascript',
     icon: <DevIcon icon="javascript" style={{fill:"#fff"}} />,
+  },
+    htmlColor: {
+    style: {
+      background: '#dd400f',
+      color: '#fff',
+    },
+    className: 'vertical-timeline-element--html5',
+    icon: <DevIcon icon="html5" fill='#FFF' />,
   },
   pythonColor: {
     style: {
