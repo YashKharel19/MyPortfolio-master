@@ -37,8 +37,8 @@ export const ResumeHomeBlock = ({ style, shortFullName, headline }) => (
         <div style={{ ...appTheme.cssColor.style }}>
           {appTheme.cssColor.icon}
         </div>
-        <div style={{ ...appTheme.pythonColor.style }}>
-          {appTheme.pythonColor.icon}
+        <div style={{ ...appTheme.angularColor.style }}>
+          {appTheme.angularColor.icon}
         </div>
       </GridBackground>
     </div>
