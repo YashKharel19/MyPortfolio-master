@@ -12,13 +12,13 @@ const theme = {
     className: 'vertical-timeline-element--php',
     icon: <DevIcon icon="php" style={{fill:"#fff"}} />,
 },
-  angularjsColor:{
+  angularColor:{
     style: {
       background: '#BD002E',
       color: '#fff',
     },
-    className: 'vertical-timeline-element--angularjs',
-    icon: <DevIcon icon="angularjs" style={{fill:"#fff"}} />,
+    className: 'vertical-timeline-element--angular',
+    icon: <DevIcon icon="angular" style={{fill:"#fff"}} />,
   },
   reactColor: {
     style: {
