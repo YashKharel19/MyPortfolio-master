@@ -54,7 +54,7 @@ const theme = {
   },
   cssColor: {
     style: {
-      background: '#ccc',
+      background: '#146EB0',
       color: '#fff',
     },
     className: 'vertical-timeline-element--css',
