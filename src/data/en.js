@@ -333,7 +333,7 @@ export default {
       title: 'Dalit Liberation Front of Nepal',
       subtitle: 'Web Project',
       category: 'Portfolio Display',
-      subcategory: 'HTML',
+      subcategory: 'react',
       contribution: true,
       links: [
         {
@@ -357,7 +357,7 @@ export default {
       title: 'OAG REPORT',
       subtitle: 'Web Project',
       category: 'Financial Reporting System',
-      subcategory: 'angular',
+      subcategory: 'react',
       contribution: true,
       links: [
         {
@@ -381,7 +381,7 @@ export default {
       title: 'MALEPA REPORT',
       subtitle: 'Web Project',
       category: 'Accounting and Reportig System',
-      subcategory: 'angular',
+      subcategory: 'react',
       contribution: true,
       links: [
         {
@@ -406,7 +406,7 @@ export default {
       title: 'CAS',
       subtitle: 'Web Project',
       category: 'Accounting System',
-      subcategory: 'angular',
+      subcategory: 'react',
       contribution: true,
       links: [
         {
@@ -430,7 +430,7 @@ export default {
       title: 'CGAS',
       subtitle: 'Web Project',
       category: 'Accounting System',
-      subcategory: 'angular',
+      subcategory: 'react',
       contribution: true,
       links: [
         {
@@ -447,7 +447,7 @@ export default {
           name: 'CSS',
         },
       ],
-      content: 'Computerized Government Accounting System for Financial Comptroller General Office ',
+      content: 'Computerized Government Accounting System for Financial Comptroller General Office',
       date: '2021-07-12',
     },
     {
