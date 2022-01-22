@@ -12,7 +12,7 @@ const theme = {
     className: 'vertical-timeline-element--php',
     icon: <DevIcon icon="php" style={{fill:"#fff"}} />,
 },
-  angularColor:{
+  angularjsColor:{
     style: {
       background: '#BD002E',
       color: '#fff',
