@@ -333,7 +333,7 @@ export default {
       title: 'Dalit Liberation Front of Nepal',
       subtitle: 'Web Project',
       category: 'Portfolio Display',
-      subcategory: 'react',
+      subcategory: 'html5',
       contribution: true,
       links: [
         {
@@ -357,7 +357,7 @@ export default {
       title: 'OAG REPORT',
       subtitle: 'Web Project',
       category: 'Financial Reporting System',
-      subcategory: 'react',
+      subcategory: 'angularjs',
       contribution: true,
       links: [
         {
@@ -381,7 +381,7 @@ export default {
       title: 'MALEPA REPORT',
       subtitle: 'Web Project',
       category: 'Accounting and Reportig System',
-      subcategory: 'react',
+      subcategory: 'angularjs',
       contribution: true,
       links: [
         {
@@ -406,7 +406,7 @@ export default {
       title: 'CAS',
       subtitle: 'Web Project',
       category: 'Accounting System',
-      subcategory: 'react',
+      subcategory: 'angularjs',
       contribution: true,
       links: [
         {
@@ -430,7 +430,7 @@ export default {
       title: 'CGAS',
       subtitle: 'Web Project',
       category: 'Accounting System',
-      subcategory: 'react',
+      subcategory: 'angularjs',
       contribution: true,
       links: [
         {
@@ -454,7 +454,7 @@ export default {
       title: 'RAFR System ',
       subtitle: 'Web Project',
       category: 'Revenue, Accounting & Financial Reporting System',
-      subcategory: 'react',
+      subcategory: 'angularjs',
       contribution: true,
       links: [
         {
@@ -478,7 +478,7 @@ export default {
       title: 'License Module',
       subtitle: 'Web Project',
       category: 'License Module for Venio system',
-      subcategory: 'react',
+      subcategory: 'angularjs',
       contribution: true,
       links: [
         {
