@@ -58,7 +58,7 @@ const theme = {
       color: '#fff',
     },
     className: 'vertical-timeline-element--css',
-    icon: <DevIcon icon="css3" />,
+    icon: <DevIcon icon="css3" fill='#FFF' />,
   },
   redhatColor: {
     style: {
