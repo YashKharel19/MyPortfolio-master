@@ -18,7 +18,7 @@ const theme = {
       color: '#fff',
     },
     className: 'vertical-timeline-element--angular',
-    icon: <DevIcon icon="angular" style={{fill:"#fff"}} />,
+    icon: <DevIcon icon="angular_simple" style={{fill:"#fff"}} />,
   },
   reactColor: {
     style: {
