@@ -329,6 +329,127 @@ export default {
     },
   ],
   projects: [
+      {
+      title: 'Dalit Liberation Front of Nepal',
+      subtitle: 'Web Project',
+      category: 'Portfolio Display',
+      subcategory: 'HTML',
+      contribution: true,
+      links: [
+        {
+          url: 'https://dlfn.org/',
+          text: 'Visit Website',
+        },
+      ],
+
+      technologies: [
+        {
+          name: 'Angular 6',
+        },
+        {
+          name: 'CSS',
+        },
+      ],
+      content: 'Official website of Dalit Liberation Front of Nepal',
+      date: '2022-01-12',
+    },
+       {
+      title: 'OAG REPORT',
+      subtitle: 'Web Project',
+      category: 'Financial Reporting System',
+      subcategory: 'angular',
+      contribution: true,
+      links: [
+        {
+          url: '#',
+          text: 'Confidential Project',
+        },
+      ],
+
+      technologies: [
+        {
+          name: 'Angular 6',
+        },
+        {
+          name: 'CSS',
+        },
+      ],
+      content: 'Financial Reporting System for Office of Auditory General,Nepal',
+      date: '2021-12-01',
+    },
+      {
+      title: 'MALEPA REPORT',
+      subtitle: 'Web Project',
+      category: 'Accounting and Reportig System',
+      subcategory: 'angular',
+      contribution: true,
+      links: [
+        {
+          url: '#',
+          text: 'Confidential Project',
+        },
+      ],
+
+      technologies: [
+        {
+          name: 'Angular 6',
+        },
+        {
+          name: 'CSS',
+        },
+      ],
+      content: 'Reporting system for Financial Comptroller General Office',
+      date: '2021-09-12',
+    },
+    
+     {
+      title: 'CAS',
+      subtitle: 'Web Project',
+      category: 'Accounting System',
+      subcategory: 'angular',
+      contribution: true,
+      links: [
+        {
+          url: '#',
+          text: 'Confidential Project',
+        },
+      ],
+
+      technologies: [
+        {
+          name: 'Angular 6',
+        },
+        {
+          name: 'CSS',
+        },
+      ],
+      content: 'Centralized Accounting System for Ministry of Foreign Affairs,Nepal',
+      date: '2021-08-12',
+    },
+     {
+      title: 'CGAS',
+      subtitle: 'Web Project',
+      category: 'Accounting System',
+      subcategory: 'angular',
+      contribution: true,
+      links: [
+        {
+          url: '#',
+          text: 'Confidential Project',
+        },
+      ],
+
+      technologies: [
+        {
+          name: 'Angular 6',
+        },
+        {
+          name: 'CSS',
+        },
+      ],
+      content: 'Computerized Government Accounting System for Financial Comptroller General Office ',
+      date: '2021-07-12',
+    },
     {
       title: 'RAFR System ',
       subtitle: 'Web Project',
