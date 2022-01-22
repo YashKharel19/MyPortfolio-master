@@ -31,6 +31,9 @@ export const ResumeHomeBlock = ({ style, shortFullName, headline }) => (
         <div style={{ ...appTheme.javascriptColor.style }}>
           {appTheme.javascriptColor.icon}
         </div>
+        <div style={{ ...appTheme.html5Color.style }}>
+          {appTheme.html5Color.icon}
+        </div>
         <div style={{ ...appTheme.redhatColor.style }}>
           {appTheme.redhatColor.icon}
         </div>
