@@ -2,14 +2,14 @@ export default {
   firstName: 'Yash',
   lastName: 'Kharel',
   emailAddress: 'yash048339@gmail.com',
-  headline: 'Software Developer in Nepal',
+  headline: 'Software Developer in Canada',
   summary: `
     Experienced Chief Technology Officer, Developer  with a demonstrated history of working in the internet industry. Skilled in Python, React, continuous integration, WordPress, Linux System Administration, and Application Programming Interfaces.<br /><br />
     Strong engineering professional with a Licence focused in Software Devlopement from Kathmandu University Nepal.<br /><br />My favourite stack :  ReactJS, ReactNative with continuous integration on Gitlab,Python.
   `,
   pictureUrl: 'me.jpg',
   dateOfBirth: '1995-07-03',
-  mainAddress: 'Kathmandu, Nepal',
+  mainAddress: 'London, ON, Canada',
   websites: [
     {
       type: 'Linkedin',
@@ -19,7 +19,7 @@ export default {
   phoneNumbers: [
     {
       type: 'Personal',
-      number: '+977 9843048339',
+      number: '+1 548-881-7339',
     },
   ],
 
