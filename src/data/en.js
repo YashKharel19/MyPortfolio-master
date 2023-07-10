@@ -314,7 +314,7 @@ export default {
       schoolName: 'Queen Margaret University',
       fieldOfStudy: 'Masters in Business Administration',
       startDate: '2020',
-      endDate: '2022(Present)',
+      endDate: '2022',
       degree: 'Graduate',
       activities:
         'Organizational Behavior for Managers,Strategic Marketing for Managers,Accounting for Managers,Business Impact and Practice',
