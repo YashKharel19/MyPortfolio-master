@@ -311,7 +311,7 @@ export default {
     'Operating system: Kali Linux(over five years)<br />IDE: Eclipse / Atom /VS Code<br />Continuous integration software: Gitlab-CI<br />Project Management Software: Gitlab<br />Version control system software: Gitlab / Github/SVN<br />',
   educations: [
     {
-      schoolName: 'Ace International Business School(Queen Margaret University)',
+      schoolName: 'Queen Margaret University',
       fieldOfStudy: 'Masters in Business Administration',
       startDate: '2020',
       endDate: '2022(Present)',
