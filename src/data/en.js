@@ -4,8 +4,7 @@ export default {
   emailAddress: 'yashkharelb@gmail.com',
   headline: 'Software Developer in Canada',
   summary: `
-    Experienced Chief Technology Officer, Developer  with a demonstrated history of working in the internet industry. Skilled in Python, React, continuous integration, WordPress, Linux System Administration, and Application Programming Interfaces.<br /><br />
-    Strong engineering professional with a Licence focused in Software Devlopement from Kathmandu University Nepal.<br /><br />My favourite stack :  ReactJS, ReactNative with continuous integration on Gitlab,Python.
+    "Experienced Software Developer with expertise in building dynamic and interactive web applications using cutting-edge technologies such as React, Angular, and Java. Skilled in crafting responsive user interfaces, optimizing performance, and ensuring robust functionality. Passionate about creating seamless digital experiences that enhance user engagement and satisfaction.".<br /><br />My favorite stack:  ReactJS, Angular with continuous integration on Gitlab, Java Springboot.
   `,
   pictureUrl: 'me.jpg',
   dateOfBirth: '1995-07-03',
