@@ -1,7 +1,7 @@
 export default {
   firstName: 'Yash',
   lastName: 'Kharel',
-  emailAddress: 'yash048339@gmail.com',
+  emailAddress: 'yashkharelb@gmail.com',
   headline: 'Software Developer in Canada',
   summary: `
     Experienced Chief Technology Officer, Developer  with a demonstrated history of working in the internet industry. Skilled in Python, React, continuous integration, WordPress, Linux System Administration, and Application Programming Interfaces.<br /><br />
@@ -13,7 +13,7 @@ export default {
   websites: [
     {
       type: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yash-kharel-2b338698/',
+      url: 'https://www.linkedin.com/in/yashkharel/',
     },
   ],
   phoneNumbers: [
@@ -33,7 +33,7 @@ export default {
     {
       name: 'Linkedin',
       icon: 'linkedin',
-      url: 'https://www.linkedin.com/in/yash-kharel-2b338698/',
+      url: 'https://www.linkedin.com/in/yashkharel/',
     },
     {
       name: 'Github',
