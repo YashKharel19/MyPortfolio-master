@@ -50,7 +50,7 @@ const theme = {
       color: '#fff',
     },
     className: 'vertical-timeline-element--python',
-    icon: <DevIcon icon="python" fill='#FFD43B' />,
+    icon: <DevIcon icon="java" fill='#FFD43B' />,
   },
   cssColor: {
     style: {
@@ -65,8 +65,8 @@ const theme = {
       background: 'black',
       color: 'red',
     },
-    className: 'vertical-timeline-element--redhat',
-    icon: <DevIcon icon="redhat" fill='red' />,
+    className: 'vertical-timeline-element--spring',
+    icon: <DevIcon icon="spring" fill='green' />,
   },
   othersColor: {
     style: {
