@@ -122,30 +122,20 @@ export default {
   ],
   skills: [
     {
-      name: 'Linux',
-      language: {
-        name: 'RED HAT',
-        style: 'redhat',
-      },
-      category: {
-        name: 'Frameworks / SDK / CMS',
-      },
-    },
-    {
       name: 'APIs',
       language: {
-        name: 'RED HAT',
-        style: 'redhat',
+        name: 'Java',
+        style: 'java',
       },
       category: {
         name: 'Frameworks / SDK / CMS',
       },
     },
     {
-      name: 'Django',
+      name: 'Spring',
       language: {
-        name: 'Python',
-        style: 'python'
+        name: 'Java',
+        style: 'java'
       },
       category: {
         name: 'Frameworks / SDK / CMS',
@@ -202,10 +192,10 @@ export default {
       },
     },
     {
-      name: 'Security',
+      name: 'Microservices',
       language: {
-        name: 'RED HAT',
-        style: 'redhat',
+        name: 'JAVA',
+        style: 'java',
       },
       category: {
         name: 'Frameworks / SDK / CMS',
@@ -221,17 +211,7 @@ export default {
         name: 'Languages',
       },
     },
-    {
-      name: 'C# core',
-      language: {
-        name: 'Others',
-        style: 'others',
-      },
-      category: {
-        name: 'Languages',
-      },
-    },
-    {
+     {
       name: 'HTML5/CSS3',
       language: {
         name: 'Others',
@@ -271,16 +251,7 @@ export default {
         name: 'Frameworks / SDK / CMS',
       },
     },
-    {
-      name: 'Wordpress',
-      language: {
-        name: 'Others',
-        style: 'others',
-      },
-      category: {
-        name: 'Frameworks / SDK / CMS',
-      },
-    },
+   
     {
       name: 'Linux',
       category: {
