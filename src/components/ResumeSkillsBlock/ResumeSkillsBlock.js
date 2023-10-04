@@ -28,7 +28,6 @@ const ResumeSkillsBlock = ({ skills, tools }) => (
       <div className="ResumeSkillsBlock-skills">
         {skills.map((skillCategory, i) => (
           // eslint-disable-next-line react/no-array-index-key
-          console.log(skillCategory)
           <Card key={i}>
             <CardContent>
               <Avatar
