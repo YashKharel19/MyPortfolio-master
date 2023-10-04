@@ -34,14 +34,17 @@ export const ResumeHomeBlock = ({ style, shortFullName, headline }) => (
         <div style={{ ...appTheme.html5Color.style }}>
           {appTheme.html5Color.icon}
         </div>
-        <div style={{ ...appTheme.redhatColor.style }}>
-          {appTheme.redhatColor.icon}
+        <div style={{ ...appTheme.springColor.style }}>
+          {appTheme.springColor.icon}
         </div>
         <div style={{ ...appTheme.cssColor.style }}>
           {appTheme.cssColor.icon}
         </div>
         <div style={{ ...appTheme.angularColor.style }}>
           {appTheme.angularColor.icon}
+        </div>
+        <div style={{ ...appTheme.javaColor.style }}>
+          {appTheme.javaColor.icon}
         </div>
       </GridBackground>
     </div>
