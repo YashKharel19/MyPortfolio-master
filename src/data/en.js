@@ -51,7 +51,7 @@ export default {
     {
       title: 'Academy Manager- Contract Part Time',
       summary:'Academic Management · Training' ,
-      startDate: '2021-07-19',
+      startDate: '2023-07-19',
       endDate: 'Today',
       isCurrent: true,
       company: 'DLytica Inc.',
@@ -59,7 +59,7 @@ export default {
     {
       title: 'Full Stack Developer - Contract Full Time',
       summary:'Javascript development<br />| React, JAVA' ,
-      startDate: '2021-05-29',
+      startDate: '2023-05-29',
       endDate: 'Today',
       isCurrent: true,
       company: 'Takeo AI',
@@ -210,7 +210,7 @@ export default {
     {
       name: 'Microservices',
       language: {
-        name: 'JAVA',
+        name: 'Java',
         style: 'java',
       },
       category: {
@@ -294,7 +294,7 @@ export default {
     },
   ],
   tools:
-    'Operating system: Kali Linux(over five years)<br />IDE: Eclipse / Atom /VS Code<br />Continuous integration software: Gitlab-CI<br />Project Management Software: Gitlab<br />Version control system software: Gitlab / Github/SVN<br />',
+    'Operating system: Kali Linux(over five years)<br /> Windows IDE: Intellij / Eclipse /VS Code<br />Continuous integration software: Gitlab-CI<br />Project Management Software: Gitlab<br />Version control system software: Gitlab / Github/SVN<br />',
   educations: [
     {
       schoolName: 'Queen Margaret University',
@@ -324,6 +324,39 @@ export default {
     },
   ],
   projects: [
+   {
+      title: 'Personal Portfolio',
+      subtitle: 'Web Project',
+      category: 'Portfolio Display',
+      subcategory: 'html5',
+      contribution: true,
+      links: [
+        {
+          url: 'https://ojaswirijal.com.np/',
+          text: 'Visit Website',
+        },
+      ],
+
+      technologies: [
+        {
+          name: 'HTML5',
+        },
+        {
+          name: 'CSS',
+        },
+        {
+          name: 'Bootstrap',
+        },
+        {
+          name: 'JS',
+        },
+        {
+          name: 'Jquery',
+        },
+      ],
+      content: 'Personal Protfolio of an interior designer',
+      date: '2023-08-12',
+    },
       {
       title: 'Dalit Liberation Front of Nepal',
       subtitle: 'Web Project',
