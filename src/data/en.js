@@ -48,6 +48,14 @@ export default {
     }
   ],
   positions: [
+     {
+      title: 'Co-Founder',
+      summary:'Reading Room - that helps you read at ease' ,
+      startDate: '2019-12-17',
+      endDate: 'Today',
+      isCurrent: true,
+      company: 'Bagisha Reading Room',
+    },
     {
       title: 'Academy Manager- Contract Part Time',
       summary:'Academic Management · Training' ,
@@ -380,6 +388,30 @@ export default {
       ],
       content: 'Official website of Dalit Liberation Front of Nepal',
       date: '2022-01-12',
+    },
+     {
+      title: 'Bagisha Reading Room',
+      subtitle: 'Web Project',
+      category: 'Company Profile',
+      subcategory: 'css',
+      contribution: true,
+      links: [
+        {
+          url: 'https://www.bagishareadingroom.com/',
+          text: 'Visit Website',
+        },
+      ],
+
+      technologies: [
+        {
+          name: 'PHP',
+        },
+        {
+          name: 'CSS',
+        },
+      ],
+      content: 'Reading room official sites',
+      date: '2019-12-17',
     },
        {
       title: 'OAG REPORT',
