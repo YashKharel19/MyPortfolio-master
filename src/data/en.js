@@ -431,6 +431,9 @@ export default {
           name: 'Angular 6',
         },
         {
+          name: 'JAVA',
+        },
+        {
           name: 'CSS',
         },
       ],
@@ -453,6 +456,9 @@ export default {
       technologies: [
         {
           name: 'Angular 6',
+        },
+        {
+          name: 'JAVA',
         },
         {
           name: 'CSS',
@@ -479,6 +485,9 @@ export default {
         {
           name: 'Angular 6',
         },
+         {
+          name: 'JAVA',
+        },
         {
           name: 'CSS',
         },
@@ -504,6 +513,9 @@ export default {
           name: 'Angular 6',
         },
         {
+          name: 'JAVA',
+        },
+        {
           name: 'CSS',
         },
       ],
@@ -526,6 +538,9 @@ export default {
       technologies: [
         {
           name: 'Angular 6',
+        },
+        {
+          name: 'JAVA',
         },
         {
           name: 'CSS',
