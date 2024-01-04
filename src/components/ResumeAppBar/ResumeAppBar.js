@@ -16,7 +16,7 @@ const ResumeAppBar = ({ emailAddress, snsAccounts }) => (
     <Toolbar className="ResumeAppBar-header">
       <Button href={`mailto:${emailAddress}`}>{emailAddress}</Button>
       <span className='social-icon'><a href='https://github.com/YashKharel19'><FaGithub /></a></span>
-      <span className='social-icon'><a href='https://www.linkedin.com/in/yash-kharel'><FaLinkedin /></a></span>
+      <span className='social-icon'><a href='https://www.linkedin.com/in/yashkharel/'><FaLinkedin /></a></span>
       <span className='social-icon'><a href='https://www.instagram.com/yashkharel/'><FaInstagram /></a></span>
     </Toolbar>
   </AppBar>
