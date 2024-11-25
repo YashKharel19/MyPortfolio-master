@@ -12,6 +12,30 @@ const theme = {
     className: 'vertical-timeline-element--php',
     icon: <DevIcon icon="php" style={{fill:"#fff"}} />,
 },
+  vueColor: {
+    style: {
+      background: '#3FB17F',
+      color: '#fff',
+    },
+    className: 'vertical-timeline-element--php',
+    icon: <DevIcon icon="vue" style={{fill:"#fff"}} />,
+},
+   awsColor: {
+    style: {
+      background: '#FF9809',
+      color: '#fff',
+    },
+    className: 'vertical-timeline-element--php',
+    icon: <DevIcon icon="amazonwebservices" style={{fill:"#fff"}} />,
+},
+nodeColor: {
+    style: {
+      background: '#58A745',
+      color: '#fff',
+    },
+    className: 'vertical-timeline-element--php',
+    icon: <DevIcon icon="nodejs" style={{fill:"#fff"}} />,
+},
   angularColor:{
     style: {
       background: '#BD002E',
