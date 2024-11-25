@@ -8,7 +8,7 @@ export default {
   `,
   pictureUrl: 'me.jpg',
   dateOfBirth: '1995-07-03',
-  mainAddress: 'London, ON, Canada',
+  mainAddress: 'Calgary, Alberta, Canada',
   websites: [
     {
       type: 'Linkedin',
@@ -55,6 +55,14 @@ export default {
       endDate: 'Today',
       isCurrent: true,
       company: 'Bagisha Reading Room',
+    },
+    {
+      title: 'Senior Software Engineer',
+      summary:'Internet of Energy' ,
+      startDate: '2024-07-15',
+      endDate: 'Today',
+      isCurrent: true,
+      company: 'ConnectX',
     },
     {
       title: 'Academy Manager- Contract Part Time',
@@ -166,7 +174,27 @@ export default {
       },
     },
     {
+      name: 'Node JS',
+      language: {
+        name: 'Javascript',
+        style: 'javascript'
+      },
+      category: {
+        name: 'Frameworks / SDK / CMS',
+      },
+    },
+    {
       name: 'React',
+      language: {
+        name: 'Javascript',
+        style: 'javascript',
+      },
+      category: {
+        name: 'Frameworks / SDK / CMS',
+      },
+    },
+     {
+      name: 'Vue',
       language: {
         name: 'Javascript',
         style: 'javascript',
