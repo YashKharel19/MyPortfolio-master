@@ -18,7 +18,7 @@ const theme = {
       color: '#fff',
     },
     className: 'vertical-timeline-element--php',
-    icon: <DevIcon icon="vue" style={{fill:"#fff"}} />,
+    icon: <DevIcon icon="vuejs" style={{fill:"#fff"}} />,
 },
    awsColor: {
     style: {
