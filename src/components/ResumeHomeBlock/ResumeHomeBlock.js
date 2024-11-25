@@ -28,13 +28,21 @@ export const ResumeHomeBlock = ({ style, shortFullName, headline }) => (
         <div style={{ ...appTheme.reactColor.style }}>
           {appTheme.reactColor.icon}
         </div>
+        <div style={{ ...appTheme.vueColor.style }}>
+          {appTheme.vueColor.icon}
+        </div>
         <div style={{ ...appTheme.javascriptColor.style }}>
           {appTheme.javascriptColor.icon}
+        </div>
+        <div style={{ ...appTheme.awsColor.style }}>
+          {appTheme.awstColor.icon}
         </div>
         <div style={{ ...appTheme.html5Color.style }}>
           {appTheme.html5Color.icon}
         </div>
-      
+       <div style={{ ...appTheme.nodeColor.style }}>
+          {appTheme.nodeColor.icon}
+        </div>
         <div style={{ ...appTheme.cssColor.style }}>
           {appTheme.cssColor.icon}
         </div>
