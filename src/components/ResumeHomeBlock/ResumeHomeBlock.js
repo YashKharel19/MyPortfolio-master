@@ -35,7 +35,7 @@ export const ResumeHomeBlock = ({ style, shortFullName, headline }) => (
           {appTheme.javascriptColor.icon}
         </div>
         <div style={{ ...appTheme.awsColor.style }}>
-          {appTheme.awstColor.icon}
+          {appTheme.awsColor.icon}
         </div>
         <div style={{ ...appTheme.html5Color.style }}>
           {appTheme.html5Color.icon}
